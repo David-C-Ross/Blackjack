@@ -5,6 +5,6 @@
 
 ### libraries used:
 
-  *tkinter
-  *os
-  *random
+  * tkinter
+  * os
+  * random
